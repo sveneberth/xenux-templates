@@ -1,5 +1,5 @@
 <li>
 	<span class="title">{{name}}</span>
-	{{position}}<br/>
+	{{position}}<br>
 	{{email}}
 </li>
