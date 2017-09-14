@@ -18,7 +18,7 @@
 
 </head>
 <body>
-	<p>TEMPLATE_PATH: {{TEMPLATE_PATH}}</p>
+	<p>TEMPLATE_URL: {{TEMPLATE_URL}}</p>
 	<p>URL_MAIN: {{URL_MAIN}}</p>
 
 	{{page_content}}
