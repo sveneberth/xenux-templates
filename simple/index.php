@@ -19,9 +19,9 @@
 </head>
 <body>
 	<p>TEMPLATE_URL: {{TEMPLATE_URL}}</p>
-	<p>URL_MAIN: {{URL_MAIN}}</p>
+	<p>MAIN_URL: {{MAIN_URL}}</p>
 
 	{{page_content}}
-	<a href="{{URL_MAIN}}/sitemap">sitemap</a>
+	<a href="{{MAIN_URL}}/sitemap">sitemap</a>
 </body>
 </html>
